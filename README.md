@@ -34,7 +34,6 @@ Navigate into the project directory and follow the setup instructions (add detai
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/f9eed8d0-5ddc-4ebc-9725-44364d5ba4c4" />
 
 ![Screenshot 2025-05-04 195023](https://github.com/user-attachments/assets/356ad0c8-e730-4073-bb58-e4fb65905c54)
-
 ![Screenshot 2025-05-04 195056](https://github.com/user-attachments/assets/4343430a-6077-4771-96de-cddf4d9cedf5)
 
 
